@@ -17,6 +17,10 @@ a.navbar-brand {
 header {
     background-color: pink;
 }
+nav#miNav{background-color:pink;}
+.mifoto{
+    margin-bottom:auto;
+}
 
 
 /* Provide sufficient contrast against white background */
